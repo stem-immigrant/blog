@@ -4,10 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I am a research scientist living in USA. I grew up in communist Romania, which left a huge mindset imprint. Most of the things that keep me up at night are related to the fact that I am an immigrant that specializes in STEM. Hence the theme of the blog.
